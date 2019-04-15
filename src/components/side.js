@@ -1,5 +1,5 @@
 import React from "react"
-import { Card, CardDeck, Button } from "react-bootstrap"
+import { Card, CardDeck } from "react-bootstrap"
 import bible from "../images/bibletwitter.jpg"
 import easter from "../images/easter.jpg"
 import king from "../images/kingdom.png"
