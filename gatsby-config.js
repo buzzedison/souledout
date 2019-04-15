@@ -5,6 +5,7 @@ module.exports = {
     author: `@souledoutlive`,
   },
   plugins: [
+    `react-netlify-form`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,

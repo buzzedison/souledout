@@ -30,7 +30,7 @@ const Layout = ({ children }) => (
         <Header siteTitle={data.site.siteMetadata.title} />
         <div>
           <main>{children}</main>
-          <footer>
+          <footer fixed="bottom">
             <Navbar bg="dark" variant="dark">
               <Navbar.Brand href="#home">Souledout</Navbar.Brand>
               <Nav className="mr-auto">
