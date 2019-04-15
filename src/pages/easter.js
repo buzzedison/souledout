@@ -1,5 +1,5 @@
 import React from "react"
-import { Form, Input, Row, Col, Button, Container } from "react-bootstrap"
+import { Form, Row, Col, Button } from "react-bootstrap"
 import Layout from "../components/layout"
 import NetlifyForm from "react-netlify-form"
 import easter from "../images/easter.jpg"
